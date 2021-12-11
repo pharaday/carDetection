@@ -16,3 +16,7 @@ https://drive.google.com/file/d/1RRi45Eb-cORttBc5qs6MmpTLvCYsmiZ3/view?usp=shari
 
 ![Alt Text](https://github.com/pharaday/carDetection/blob/main/gifForReadme.gif)
 
+Pre-trained model результаты:
+![Alt Text](https://github.com/pharaday/carDetection/blob/main/imagesReadMe/1.jpg)
+![Alt Text](https://github.com/pharaday/carDetection/blob/main/imagesReadMe/2.jpg)
+
