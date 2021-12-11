@@ -17,6 +17,10 @@ https://drive.google.com/file/d/1RRi45Eb-cORttBc5qs6MmpTLvCYsmiZ3/view?usp=shari
 ![Alt Text](https://github.com/pharaday/carDetection/blob/main/gifForReadme.gif)
 ![Alt Text](https://github.com/pharaday/carDetection/blob/main/imagesReadMe/intro.gif)
 
+Запись экрана не показывает другие открытые окна. Скрин того, как добавляется картинка:
+
+![Alt Text](https://github.com/pharaday/carDetection/blob/main/imagesReadMe/3.jpg)
+
 Pre-trained model результаты:
 
 
